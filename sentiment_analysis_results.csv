@@ -1,0 +1,28 @@
+comment,negative_score,neutral_score,positive_score,compound_score,sentiment
+"The product quality exceeded my expectations, I will definitely order again!",0.0,0.77,0.23,0.4574,Positive
+Customer support was rude and took forever to respond to my ticket.,0.191,0.637,0.172,-0.0772,Negative
+Delivery was on time and the packaging was neat.,0.0,0.727,0.273,0.4588,Positive
+"I'm not sure how I feel about the new update, it's just okay I guess.",0.116,0.771,0.113,-0.016,Neutral
+"Absolutely love the new features, this is a game changer for our team!",0.0,0.715,0.285,0.6989,Positive
+"The app keeps crashing every time I try to upload a file, very frustrating.",0.197,0.803,0.0,-0.4927,Negative
+"Pricing is fair for the value we get, no complaints here.",0.0,0.535,0.465,0.7147,Positive
+"Worst experience ever, I want a refund immediately.",0.36,0.526,0.114,-0.5859,Negative
+"The interface is clean and easy to navigate, great job on the redesign.",0.0,0.508,0.492,0.8658,Positive
+"It works fine, nothing special but does the job.",0.162,0.698,0.14,-0.059,Negative
+"Your team went above and beyond to fix our issue, truly impressed!",0.0,0.614,0.386,0.7424,Positive
+"I had to wait three weeks for a simple replacement part, unacceptable.",0.214,0.786,0.0,-0.4588,Negative
+The onboarding process was smooth and well explained.,0.0,0.769,0.231,0.2732,Positive
+"Meh, it's an average product, similar to competitors.",0.157,0.843,0.0,-0.0772,Negative
+This is by far the best customer service I've received in years.,0.0,0.724,0.276,0.6369,Positive
+The billing system charged me twice and nobody has resolved it yet.,0.133,0.741,0.126,-0.0258,Neutral
+"Solid product overall, though the mobile app could use some polish.",0.0,0.862,0.138,0.1531,Positive
+"I appreciate the quick turnaround on my support request, thank you!",0.0,0.494,0.506,0.8016,Positive
+The instructions were confusing and the setup took way longer than it should.,0.137,0.863,0.0,-0.2263,Negative
+"Great value for money, would recommend to a friend.",0.0,0.291,0.709,0.9042,Positive
+"Terrible experience, the product broke after just two days of use.",0.396,0.604,0.0,-0.7096,Negative
+"It's decent, does what it promises but nothing extraordinary.",0.0,0.816,0.184,0.2023,Positive
+Fantastic! The new dashboard makes tracking everything so much easier.,0.0,0.534,0.466,0.7888,Positive
+Very disappointed with the lack of communication during the delay.,0.533,0.467,0.0,-0.7902,Negative
+Support agent was knowledgeable and resolved my issue in minutes.,0.0,0.645,0.355,0.5267,Positive
+"The product is okay, but shipping fees are a bit too high.",0.0,0.884,0.116,0.1154,Positive
+"Horrible customer service, I was put on hold for over an hour.",0.241,0.759,0.0,-0.5423,Negative
